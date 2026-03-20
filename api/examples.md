@@ -34,7 +34,7 @@ console.log(res.data);
 
 For onboarding assistance, technical integration, or custom enterprise pricing:
 
-- [[email protected]](https://api.pinkwallet.com/cdn-cgi/l/email-protection)
+https://t.me/PinkwaIIet_Suport
 
 ## Changelog
 
